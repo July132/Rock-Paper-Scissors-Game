@@ -14,8 +14,12 @@ while True:
     elif player_move == 's':
         player_move = scissors
     else:
-        print("Invalid input. Try again.")
-        continue
+        again = input("Invalid input. Try again? Y/N ")
+        if again.lower() == 'y':
+            print()
+            continue
+        else:
+            break
 
     computer_choice = random.randint(1, 3)
 
@@ -39,9 +43,10 @@ while True:
     else:
         print('You lose!')
 
-    restart = input('Play again? Y/N')
+    restart = input('Play again? Y/N ')
 
     if restart.lower() == 'y':
+        print()
         continue
     else:
         break
