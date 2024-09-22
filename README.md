@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors-Game
 
 Console based game made with Python.
-![img_3.png](img_3.png)
+![img_3.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png)
 ## Project Goals ⚽
 A simple game project to practice Python skills and simulate the game "Rock Paper Scissors".
 
