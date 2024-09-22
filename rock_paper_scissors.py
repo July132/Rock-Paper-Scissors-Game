@@ -19,6 +19,7 @@ while True:
             print()
             continue
         else:
+            print('Thank you for playing!')
             break
 
     computer_choice = random.randint(1, 3)
@@ -49,4 +50,5 @@ while True:
         print()
         continue
     else:
+        print('Thank you for playing!')
         break
