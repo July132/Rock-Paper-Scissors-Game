@@ -11,7 +11,6 @@ value as well. At the end both values are compared and the possible outcomes are
 following table:
 
 ![img.png](img.png)
-
 ## Contacts ☎
 If you have any suggestions, problems with the code, or just want to reach out to me,
 do not hesitate to DM me on any social media. I will be happy to answer.
